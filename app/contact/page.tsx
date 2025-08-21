@@ -133,7 +133,7 @@ export default function Contact() {
                 <Instagram size={32} />
               </a>
               <a
-                href="https://www.linkedin.com/company/byconsulting-ltd/?viewAsMember=true"
+                href="https://www.linkedin.com/company/byconsulting-ltd/"
                 target="_blank"
                 rel="noopener noreferrer"
                 className="hover:text-sky hover:scale-[1.1] transition-all duration-300"
