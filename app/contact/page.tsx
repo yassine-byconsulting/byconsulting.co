@@ -125,7 +125,7 @@ export default function Contact() {
             {/* Social icons */}
             <div className="flex space-x-6 mt-2 text-charcoal justify-center md:justify-start">
               <a
-                href="https://instagram.com"
+                href="https://www.instagram.com/byconsulting.co?igsh=MTZxd21reDhkd2l4eg%3D%3D&utm_source=qr"
                 target="_blank"
                 rel="noopener noreferrer"
                 className="hover:text-sky hover:scale-[1.1] transition-all duration-300"
@@ -133,7 +133,7 @@ export default function Contact() {
                 <Instagram size={32} />
               </a>
               <a
-                href="https://linkedin.com/in/yassinebenyacoub/"
+                href="https://www.linkedin.com/company/byconsulting-ltd/?viewAsMember=true"
                 target="_blank"
                 rel="noopener noreferrer"
                 className="hover:text-sky hover:scale-[1.1] transition-all duration-300"
