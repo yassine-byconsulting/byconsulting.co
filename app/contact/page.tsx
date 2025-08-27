@@ -2,7 +2,7 @@
 
 import { motion } from "framer-motion";
 import Image from "next/image";
-import { Instagram, Linkedin } from "lucide-react";
+import { Instagram, Linkedin, X } from "lucide-react";
 import { useState, useRef } from "react";
 import { toast, Toaster } from "react-hot-toast";
 import Heading from "@/components/Heading";
@@ -149,7 +149,7 @@ export default function Contact() {
               >
                 <X size={32} />
               </a>
-            <div>
+            </div>
               
           </motion.div>
 
