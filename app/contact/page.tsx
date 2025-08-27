@@ -139,8 +139,18 @@ export default function Contact() {
                 className="hover:text-sky hover:scale-[1.1] transition-all duration-300"
               >
                 <Linkedin size={32} />
+
               </a>
-            </div>
+              <a
+                href="https://x.com/BYConsulting_co"
+                target="_blank"
+                rel="noopener noreferrer"
+                className="hover:text-sky hover:scale-[1.1] transition-all duration-300"
+              >
+                <X size={32} />
+              </a>
+            <div>
+              
           </motion.div>
 
           {/* Right: Contact form with motion + Formspree handler */}
